@@ -9,12 +9,12 @@
     /* Color palette */
     --nord-primary: #000720;
     --nord-secondary: #1c2341;
-    --nord-secondary-alt: #396cb335;
+    --nord-secondary-alt: #396cb335; 
     --nord-tertiary: #000720;
     --nord-accent-color : #dadfe1;
     --nord-input-box: #396cb335;
-    --nord-frost-blue: #88c0d0;
-    --nord-frost-dark-blue: #5e81ac;
+    --nord-frost-blue: #2d79b2;
+    --nord-frost-dark-blue: #49688e;
 
     /* Scrollbar */
     --nord-scrollbar-track: var(--nord-primary);
