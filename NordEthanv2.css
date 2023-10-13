@@ -1,5 +1,5 @@
 /**
- * @name NordEthanv2
+ * @name NordEthanv4
  * @version 1.0.0
  * @description A theme for discord made by Ethan lol
  */
@@ -7,14 +7,14 @@
 
 :root {
     /* Color palette */
-    --nord-primary: #000720;
-    --nord-secondary: #1c2341;
+    --nord-primary: #00030e;
+    --nord-secondary: #222f67;
     --nord-secondary-alt: #396cb335; 
-    --nord-tertiary: #000720;
-    --nord-accent-color : #dadfe1;
+    --nord-tertiary: #010d38;
+    --nord-accent-color : #368eb1; 
     --nord-input-box: #396cb335;
-    --nord-frost-blue: #2d79b2;
-    --nord-frost-dark-blue: #49688e;
+    --nord-frost-blue: #3692d7; 
+    --nord-frost-dark-blue: #466183;
 
     /* Scrollbar */
     --nord-scrollbar-track: var(--nord-primary);
@@ -77,8 +77,8 @@ html.theme-light::before {
     color: #faa61a;
 }
 /* Discord mentions*/
-.theme-dark .mentioned-xhSam7:before {
-    background-color: #6ba9ff;
+.theme-dark .mentioned-xhSam7:before { 4381d7
+    background-color: #adcbf4;
 }
 
 .theme-dark .mentioned-xhSam7 {
@@ -156,7 +156,7 @@ html.theme-light::before {
 
 /* Active FOlder */
 .theme-dark .item-2hkk8m {
-  background-color: #81a1c1;
+  background-color: #4779b2;
 }
 
 /* Menu Green */
@@ -168,7 +168,7 @@ html.theme-light::before {
 .theme-dark .botTagRegular-2HEhHi {
   transition: .5s;
   background: rgba(114,137,218,0.1);
-  color: #7289da;
+  color: #85acec;
 }
 .theme-dark .botTagRegular-2HEhHi:hover {
   transition: .5s;
@@ -231,7 +231,7 @@ html.theme-light::before {
 }
 
 .hljs-function > .hljs-title {
-  color: #88C0D0;
+  color: #5db9d4;
 }
 
 .hljs-keyword,
